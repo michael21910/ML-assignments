@@ -1,2 +1,2 @@
 # ML-assignments
-Machine Learning assignments in NDHU, junior
+This repo contains assignments for Machine Learning class when I was a junior in NDHU.
