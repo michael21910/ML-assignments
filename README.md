@@ -13,6 +13,8 @@ This repo contains assignments for Machine Learning class when I was a junior in
     * 測試報告內容包含：
         * 每種演算法挑選兩種參數，更改其設定值，進行實驗。例如Logistic Regression的penalty, solver。
         * 結論：根據上述測試，做個觀察結論。
-
+* [HW3](HW3)
+    * 在本章三個小節各選一個較複雜的範例，分別予以修改並執行。
+    * 繳交截圖與說明修改的部分與效果
 ## LICENSE
 [MIT](LICENSE) © Tsuen Hsueh
